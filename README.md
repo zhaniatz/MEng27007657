@@ -1,6 +1,6 @@
 # MEng27007657
 
-The image classification used was created by Nicholas Renotte using his tutorial on "Build a Deep CNN Image Classifier with ANY Images". The code was adjusted to fit the image dataset using this proect. 
+The image classification used was created by Nicholas Renotte and follows his tutorial on "Build a Deep CNN Image Classifier with ANY Images". The code was adjusted to fit the image dataset using this proect. 
 
 Before running the code
 1. Make sure all the files from this repository are allocted in one folder
