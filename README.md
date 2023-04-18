@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1OaiaX-goziPxSSVYteMTRG-od73tOZfy?usp=sha
 
 The correct file will have a total of 600 images, that are split into two folders named 'Crop' and 'Full' with 300 images each.
 
-Before running the code
+# Before running the code
 1. Make sure all the files from this repository are allocted in one folder 
 2. Have an anaconda3 environment
 3. Running a the recent python 3 kernal on JupyterLab (I am using version 3.11.3 on a Mac OS)
