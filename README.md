@@ -1,9 +1,9 @@
 # MEng27007657
 
 # Acknowledgements
-The image classification used in this project was created by Nicholas Renotte and follows his tutorial on "Build a Deep CNN Image Classifier with ANY Images". The code was adjusted and commented to fit the image dataset using this proect. 
+The image classification model used in this project was created by Nicholas Renotte and follows his tutorial on "Build a Deep CNN Image Classifier with ANY Images". The code was adjusted and commented to fit the image dataset using this project. 
 
-Tutorials: https://www.youtube.com/watch?v=jztwpsIzEGc & https://github.com/nicknochnack/ImageClassification
+Tutorials: https://github.com/nicknochnack/ImageClassification & https://www.youtube.com/watch?v=jztwpsIzEGc
 
 
 # Downloading the Datset
