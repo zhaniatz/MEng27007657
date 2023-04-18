@@ -3,8 +3,10 @@
 The image classification used was created by Nicholas Renotte and follows his tutorial on "Build a Deep CNN Image Classifier with ANY Images". The code was adjusted to fit the image dataset using this proect. 
 
 Download the Capillary dataset using the link to the GoogleDrive. After downloading, add this file to the working directory. 
+
 https://drive.google.com/drive/folders/1OaiaX-goziPxSSVYteMTRG-od73tOZfy?usp=share_link
 
+The correct file will have a total of 600 images, that are split into two folders named 'Crop' and 'Full' with 300 images each.
 
 Before running the code
 1. Make sure all the files from this repository are allocted in one folder 
