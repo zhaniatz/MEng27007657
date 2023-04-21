@@ -19,7 +19,8 @@ The correct file will have a total of 600 images, that are split into two folder
 2. Have an anaconda3 environment running
 3. Running the recent python 3 kernal on JupyterLab (I am using Python version 3.11.3 on a Mac OS)
 4. Have all the dependancies installed: tensorflow, os, numpy and openCV ("!pip install x dependancy")
+5. Run the code
 
-# How to run the code
 
-To run the code press "Restart all kernals and Run all cells" located in the Run tab
+
+
